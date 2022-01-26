@@ -13,7 +13,12 @@
     {
       "id": 3,
       "name": "Sansung S20+",
-      "price": 5000.00
+      "price": 5000
+    },
+    {
+      "name": "teste",
+      "price": "100",
+      "id": 4
     }
   ]
 }
